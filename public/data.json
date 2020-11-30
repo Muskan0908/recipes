@@ -1,0 +1,22 @@
+[
+  {
+    "recipes":[
+      {
+        "id":0,
+        "title":"Aalo fry",
+        "image":"grrege",
+        "ingredients":[
+          "1 cup maida","1/2 cup water"
+        ],
+      },
+      {
+        "id":1,
+        "title":"Bitter gourd",
+        "image":"grrege",
+        "ingredients":[
+          "1 cup maida","1/2 cup water"
+        ],
+      },
+    ]
+  }
+]
